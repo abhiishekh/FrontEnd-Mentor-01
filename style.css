@@ -15,8 +15,8 @@ body,html{
 
 .container{
    
-    background-color: hsl(0, 0%, 20%);
-    margin-top: 10vh;
+    background-color: hsl(0, 0%, 12%);
+    margin-top: 20vh;
     width: calc(100%-60vw);
     height: calc(100%-20vh);
     display: flex;
@@ -86,7 +86,7 @@ body,html{
     color: Grey 800;
 }
 .links ul{
-    background-color:  hsl(0, 0%, 12%);
+    background-color:  hsl(0, 0%, 20%);
     margin-bottom: 10px;
     width: 100%;
     text-align: center;
